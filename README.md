@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreddieBuabs
-- 👀 I’m interested in python and cybersecurity
-- 🌱 I’m currently learning django
+- 👀 I’m interested in python and cybersecurity.
+- 🌱 I’m currently learning django.
 
 - 📫 How to reach me - fbuaba11@gmail.com
 
