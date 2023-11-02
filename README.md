@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FreddieBuabs
+- 👋 Hi, I’m Fred Buaba
 - 👀 I’m interested in python and cybersecurity.
 - 🌱 I’m currently learning django.
 
